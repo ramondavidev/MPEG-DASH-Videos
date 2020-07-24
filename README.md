@@ -1,6 +1,8 @@
 # Britein - Online Classes Using MPEG-DASH
 
-This project aims to display online videos using mpeg-dash and Cloudinary is used to store the videos. 
+This project aims to display online videos using mpeg-dash.
+
+Cloudinary is used to store the videos. 
 
 ### MPEG-DASH
 
