@@ -12,8 +12,7 @@ You can simplify the creation of these files using Cloudinary’s adaptive strea
 Click [here](https://cloudinary.com/documentation/video_player_hls_dash) to learn more about it.
 
 ## Visuals
-<img src="images/visual.png" width="300" />
-![](images/visual.png)
+<img src="images/visual.png" />
 
 ## Running The Project
 You need to have node installed in your machine. 
