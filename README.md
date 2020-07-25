@@ -32,4 +32,4 @@ npm start
 ```
 
 ## Upload a file
-In the project directory has a file named server.js where you can see a sample of how upload a file in cloudinary server.
+In the project directory has a file named server.js where you can see a sample of how upload a video with MPEG-DASH to cloudinary.
