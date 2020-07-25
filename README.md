@@ -25,11 +25,12 @@ npm install
 ```
 
 ## Running The Project
-#### In the client directory, you can run:
+In the client directory, you can run:
 
 ```bash
 npm start
 ```
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Upload a file
 In the project directory has a file named server.js where you can see a sample of how upload a video with MPEG-DASH to cloudinary.
