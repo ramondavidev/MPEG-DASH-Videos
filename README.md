@@ -17,7 +17,7 @@ Click [here](https://cloudinary.com/documentation/video_player_hls_dash) to lear
 <img src="images/visual.png" />
 
 ## Installing
-You need to have node installed in your machine. You can install it [here](https://nodejs.org/en/download/)
+You need to have node installed in your machine. You can install it [here](https://nodejs.org/en/download/).
 To install the packages you need run the following command in the client reposity:
 
 ```
