@@ -16,10 +16,16 @@ Click [here](https://cloudinary.com/documentation/video_player_hls_dash) to lear
 ## Visuals
 <img src="images/visual.png" />
 
-## Running The Project
-You need to have node installed in your machine. 
-#### In the client directory, you can run:
+## Installing
+You need to have node installed in your machine. You can install it [here](https://nodejs.org/en/download/)
+To install the packages you need run the following command in the client reposity:
 
+```
+npm install
+```
+
+## Running The Project
+#### In the client directory, you can run:
 
 ```bash
 npm start
