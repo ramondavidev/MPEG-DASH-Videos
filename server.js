@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
+//Cloudinary Data
 var cloudinary = require('cloudinary');
 cloudinary.config({ 
   cloud_name: 'xxxxx', 
